@@ -1,0 +1,7 @@
+type-cli-*
+tail_bun.js
+SHA256SUMS
+dl.py
+extract1.py
+*.pyc
+__pycache__/
